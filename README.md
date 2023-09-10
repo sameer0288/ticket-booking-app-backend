@@ -15,15 +15,11 @@ The ticket Booking system is a web-based application that allows users to book T
 
 **Client:** HTML, CSS ,Javascript,React.js
 
-## Video Presentation
-
-**Video Link** - ""
-
 ## Deployment
 
 **Server side:** Render cloud LINK
 
-**Client side:** Netlify LINK
+**Client side:** Netlify LINK---> https://mybus-app.netlify.app/
 
 ## Features
 
